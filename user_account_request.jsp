@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>JSP Fundamentals</title>
 </head>
 <body>
 	<h1>User Account Request Form</h1>
